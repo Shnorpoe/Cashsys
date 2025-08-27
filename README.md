@@ -9,5 +9,6 @@ CashSYS is a versatile and user-friendly web-based cashier system specifically d
 
 The system is built with ease of use in mind, featuring a clean, intuitive interface that requires minimal training for new employees. Storefronts can quickly process sales, manage product lists, and handle various payment methods. CashSYS eliminates the need for complex software installations and updates, as all you need is a stable internet connection and a web browser. This ensures that your system is always up-to-date with the latest features and security enhancements.
 
+---
 
-CashSYS is a game-changer for businesses seeking to modernize their operations without a significant financial investment. Its accessibility, flexibility, and comprehensive features make it an ideal solution for a wide range of retail environments, from pop-up shops and food stalls to small boutiques and cafes. By leveraging the power of Android devices, CashSYS puts the control and functionality of a sophisticated POS system directly into the hands of business owners and their staff, streamlining the checkout process and enhancing the customer experience.
+CashSYS is a game-changer for businesses seeking to modernize their operations without a significant financial investment. By leveraging the power of Android devices, CashSYS puts the control and functionality of a sophisticated POS system directly into the hands of business owners and their staff, streamlining the checkout process and enhancing the customer experience.
