@@ -11,3 +11,9 @@ CashSYS is a versatile and user-friendly web-based cashier system specifically d
 * Simple to use
 * Portable
 * Customizable
+* Special display for Customers
+
+---
+
+How it works:
+(TBA)
