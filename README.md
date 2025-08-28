@@ -16,4 +16,8 @@ CashSYS is a versatile and user-friendly web-based cashier system specifically d
 ---
 
 How it works:
-(TBA)
+The cashier activity
+<img width="846" height="853" alt="activity cashsys drawio" src="https://github.com/user-attachments/assets/23281f29-483a-4777-b264-87741a7c6980" />
+
+below are the usecase of the users and what can they do
+<img width="570" height="841" alt="Cashsys Usecase drawio" src="https://github.com/user-attachments/assets/6820daeb-2965-4bd4-be37-f36ca0bf16f3" />
